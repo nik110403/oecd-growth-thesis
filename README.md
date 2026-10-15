@@ -4,7 +4,7 @@
 
 [Paper](https://nikkhosravipour.com/post/the-determinants-of-economic-growth-after-the-global-financial-crisis-in-oecd-countries) · [Data](#data-availability) · [Site](https://nikkhosravipour.com)
 
-[![License: MIT](https://img.shields.io/badge/code-MIT-8c2f1b?style=flat)](LICENSE) [![License: CC BY 4.0](https://img.shields.io/badge/text%20and%20figures-CC%20BY%204.0-8c2f1b?style=flat)](LICENSE-docs) [![R 4.2+](https://img.shields.io/badge/R-4.2%2B-57534e?style=flat)](https://www.r-project.org/)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23404674-8c2f1b?style=flat)](https://doi.org/10.5281/zenodo.23404674) [![License: MIT](https://img.shields.io/badge/code-MIT-8c2f1b?style=flat)](LICENSE) [![License: CC BY 4.0](https://img.shields.io/badge/text%20and%20figures-CC%20BY%204.0-8c2f1b?style=flat)](LICENSE-docs) [![R 4.2+](https://img.shields.io/badge/R-4.2%2B-57534e?style=flat)](https://www.r-project.org/)
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="05_figures/break_coefficients-dark.png"><img src="05_figures/break_coefficients.png" alt="Post-2008 changes in four growth coefficients with 95% confidence intervals; the investment, human capital and convergence intervals sit close to zero and the population growth interval is wide." width="100%"></picture>
 
@@ -86,7 +86,7 @@ oecd-growth-thesis/
 
 ## Citation
 
-GitHub shows a "Cite this repository" button from `CITATION.cff`. BibTeX:
+Archived on Zenodo: [doi:10.5281/zenodo.23404674](https://doi.org/10.5281/zenodo.23404674) (all versions). GitHub shows a "Cite this repository" button from `CITATION.cff`. BibTeX:
 
 <details>
 <summary>BibTeX</summary>
@@ -98,6 +98,7 @@ GitHub shows a "Cite this repository" button from `CITATION.cff`. BibTeX:
   school = {Vienna University of Economics and Business (WU)},
   type   = {Bachelor's thesis},
   year   = {2026},
+  doi    = {10.5281/zenodo.23404674},
   url    = {https://github.com/nik110403/oecd-growth-thesis}
 }
 ```
