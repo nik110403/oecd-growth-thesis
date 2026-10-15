@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as below."
+type: dataset
+title: "The Determinants of Economic Growth after the Global Financial Crisis in OECD Countries"
+authors:
+  - family-names: Khosravipour
+    given-names: Nik
+    orcid: "https://orcid.org/0009-0007-4464-5002"
+    affiliation: "Vienna University of Economics and Business (WU)"
+    email: nik@khosravipour.at
+license: CC-BY-4.0
+preferred-citation:
+  type: thesis
+  title: "The Determinants of Economic Growth after the Global Financial Crisis in OECD Countries"
+  authors:
+    - family-names: Khosravipour
+      given-names: Nik
+      orcid: "https://orcid.org/0009-0007-4464-5002"
+  year: 2026
+  month: 6
+  institution:
+    name: "Vienna University of Economics and Business (WU)"
+  thesis-type: "Bachelor's thesis"

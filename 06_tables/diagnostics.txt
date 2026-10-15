@@ -1,0 +1,50 @@
+===== Hausman test (FE vs RE) =====
+
+
+	Hausman Test
+
+data:  f_base
+chisq = 125.18, df = 4, p-value < 2.2e-16
+alternative hypothesis: one model is inconsistent
+
+
+===== Pesaran CD test (one-way FE: raw cross-sectional dependence) =====
+
+
+	Pesaran CD test for cross-sectional dependence in panels
+
+data:  gdppc_growth ~ ln_gdppc_lag + inv_share + ln_hc + pop_growth_pwt
+z = 34.888, p-value < 2.2e-16
+alternative hypothesis: cross-sectional dependence
+
+
+===== Pesaran CD test (two-way FE: net of year effects) =====
+
+
+	Pesaran CD test for cross-sectional dependence in panels
+
+data:  gdppc_growth ~ ln_gdppc_lag + inv_share + ln_hc + pop_growth_pwt
+z = -0.41862, p-value = 0.6755
+alternative hypothesis: cross-sectional dependence
+
+
+===== Wooldridge test for serial correlation (FE panels) =====
+
+
+	Wooldridge's test for serial correlation in FE panels
+
+data:  fe
+F = 28.529, df1 = 1, df2 = 550, p-value = 1.353e-07
+alternative hypothesis: serial correlation
+
+
+===== Breusch-Godfrey / Wooldridge (pbgtest) =====
+
+
+	Breusch-Godfrey/Wooldridge test for serial correlation in panel models
+
+data:  f_base
+chisq = 156.73, df = 24, p-value < 2.2e-16
+alternative hypothesis: serial correlation in idiosyncratic errors
+
+
